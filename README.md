@@ -9,21 +9,32 @@ In India about 160 million (more than the population of Russia ) of India's 1.3 
 ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/1.jpg) 
 
 https://timesofindia.indiatimes.com/india/polluted-water-killed-7-every-day-in-2018/articleshow/69996658.cms  
-This report says in 2018 , 2,439 people died because of four major water-diseases — cholera, acute diarrhoeal diseases (ADD), typhoid and viral hepatitis. In all, more than 1.3 crore people were diagnosed with these diseases . In the past five years, 11,768 people have died of these diseases — one every four hours on average.To overcome this problem in some amount we can try to purify water - atleast baterial content that mainly majorly affects on human health and sperads water deseases. This project aims to that to develope simple, affordable , poratable water filter unit that works on solar energy. Its proven that UV C light kills bacteria s effectivily.In normal water filter usually UV candles are used to remove bactrial content. But in that case it needs  another water source / tank to pass water continousaly from UV candle, its a contineous filtering process and its difficult to make portable version of this. Also in continous process we need to keep filter ON for long time that increases electricity consumptions. 
-
-Considering all these things 
+This report says in 2018 , 2,439 people died because of four major water-diseases — cholera, acute diarrhoeal diseases (ADD), typhoid and viral hepatitis. In all, more than 1.3 crore people were diagnosed with these diseases . In the past five years, 11,768 people have died of these diseases — one every four hours on average.
 
 
+To overcome this problem in some amount we can try to purify water - atleast baterial content that mainly majorly affects on human health and sperads water deseases. This project aims  that to develope simple, affordable , poratable water filter that works on solar energy. Its already proven that UV C light kills bacterias effectivily . In normal water filter usually UV candles are used to remove bactrial content, but in that case it needs  another water source / tank to pass water continousaly through UV candle - its a contineous filtering process and its difficult to make portable version of this. Also in continous process we need to keep filter ON for long time that increases electricity consumptions. 
+
+Considering all above issues  and limitations , if we develope filter that uses UV C light and filters water in batch process , also if it opeartes on Solar energy that will good for tribal communities and in rural area. 
 
 
-### System sketch and design:
 
-This device system mainly consisiting Sensor part ,Main controller board, 
-data trnsmission unit and cloud storage. Sensor part includes BOSCH make BME280 Temperature and relative humidity 
-sensor, considering its best performance in this envirnoment.ESP32 controller is brain of this system,considered its latest features like onchip bluetooth ,wifi connectivity. 
-Its also suitable for furure modifications at software level.GSM SIM800L module used for transmitiing data in GPRS mode on thingspeak cloud.Thingspeak
-cloud storage displaying this data in graphical format and if possible, we can do mathematical analysis using thingspeak. Its also available to download 
-CSV sheet format.This whole system is powered with Solar energy with battery backup considering remote farm locations without electric supply.   
+### System sketch and initial trials:
+
+To start with , its decided to have temporary setup to check concept validity and to calculate required retention time to get one batch of water purified. As per below sketch we designed initial setup.  
+
+
+
+
+
+
+
+My collegue Miss. Priyanka Gharat worked on this initial setup. Detailed documenation of this is available on her blog. Here is the link :  
+http://vadic.vigyanashram.blog/2020/10/06/solar-water-filter-2/  
+
+In first trial , 
+
+
+   
 
 
 
