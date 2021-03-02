@@ -30,8 +30,19 @@ To start with , its decided to have temporary setup to check concept validity an
 
 My collegue Miss. Priyanka Gharat worked on this initial setup. Detailed documenation of this is available on her blog. Here is the link :  
 http://vadic.vigyanashram.blog/2020/10/06/solar-water-filter-2/  
+In first trial, to know retention time of UV C light in continous filtering process , we passed xxx water for xxx time thorugh UV C quartz glass tube, After  water testing (H2S test) we got negative results , so ist concluded that it needs around 10 sec time to purify xxx amount of water.
 
-In first trial , 
+Taking in count this result we dsigned another setup to test retention time required for batch process. This setup mainly includes 
+
+11 watt UV C light tube 
+Choke to control supply 
+20 lit container 
+
+So we tried with different quantity and UV C projection timings-. 
+Initially  we kept 3 min projection for 5 liter of water - results are negative. so we kept reducing projectioin time and finally we found for 5 liter quantity it needs to have 5 min projection time . 
+
+
+
 
 
    
