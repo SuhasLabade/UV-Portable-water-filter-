@@ -4,30 +4,15 @@ To design and fabricate UV Light based portable water filter that works in batch
 
 ### Project description and Need : 
 
-In India about 160 million — more than the population of Russia — of India's 1.3 billion people don't have access to clean water. Ost of them dirnking untreated contaminated  surface water that causes deseases such diarrhoea, cholera, dysentery, typhoid, and polio.This report says in 2018 , 2,439 people died because of four major water-diseases — cholera, acute diarrhoeal diseases (ADD), typhoid and viral hepatitis.In all, more than 1.3 crore people were diagnosed with these diseases In the past five years, 11,768 people have died of these diseases — one every four hours on averag .
+In India about 160 million (more than the population of Russia ) of India's 1.3 billion people don't have access to clean water. Most of them drinking untreated contaminated  surface water that causes deseases such as diarrhoea, cholera, dysentery, typhoid, and polio.
 
-Read more at:
-http://timesofindia.indiatimes.com/articleshow/69996658.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/1.jpg) 
 
-Read more at:
-http://timesofindia.indiatimes.com/articleshow/69996658.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst
+https://timesofindia.indiatimes.com/india/polluted-water-killed-7-every-day-in-2018/articleshow/69996658.cms  
+This report says in 2018 , 2,439 people died because of four major water-diseases — cholera, acute diarrhoeal diseases (ADD), typhoid and viral hepatitis. In all, more than 1.3 crore people were diagnosed with these diseases . In the past five years, 11,768 people have died of these diseases — one every four hours on average.To overcome this problem in some amount we can try to purify water - atleast baterial content that mainly majorly affects on human health and sperads water deseases. This project aims to that to develope simple, affordable , poratable water filter unit that works on solar energy. Its proven that UV C light kills bacteria s effectivily.In normal water filter usually UV candles are used to remove bactrial content. But in that case it needs  another water source / tank to pass water continousaly from UV candle, its a contineous filtering process and its difficult to make portable version of this. Also in continous process we need to keep filter ON for long time that increases electricity consumptions. 
 
-Read more at:
-http://timesofindia.indiatimes.com/articleshow/69996658.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst
+Considering all these things 
 
-Read more at:
-http://timesofindia.indiatimes.com/articleshow/69996658.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst
-
-Read more at:
-http://timesofindia.indiatimes.com/articleshow/69996658.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst
-
-Read more at:
-http://timesofindia.indiatimes.com/articleshow/69996658.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst
-
-Read more at:
-http://timesofindia.indiatimes.com/articleshow/69996658.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst
-
-https://timesofindia.indiatimes.com/india/polluted-water-killed-7-every-day-in-2018/articleshow/69996658.cms
 
 
 
