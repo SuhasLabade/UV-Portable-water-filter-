@@ -22,7 +22,7 @@ Considering all above issues  and limitations , if we develope filter that uses 
 
 To start with , its decided to have temporary setup to check concept validity and to calculate required retention time to get one batch of water purified. As per below sketch we designed initial setup.  
 
-
+![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/1-1.jpg)  
 
 
 
