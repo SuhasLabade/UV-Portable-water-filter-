@@ -6,7 +6,7 @@ To design and fabricate UV Light based portable water filter that works in batch
 
 In India about 160 million (more than the population of Russia ) of India's 1.3 billion people don't have access to clean water. Most of them drinking untreated contaminated  surface water that causes deseases such as diarrhoea, cholera, dysentery, typhoid, and polio.
 
-![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/1.jpg)   
+![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/1.jpg)   
 
 https://timesofindia.indiatimes.com/india/polluted-water-killed-7-every-day-in-2018/articleshow/69996658.cms  
 This report says in 2018 , 2,439 people died because of four major water-diseases — cholera, acute diarrhoeal diseases (ADD), typhoid and viral hepatitis. In all, more than 1.3 crore people were diagnosed with these diseases . In the past five years, 11,768 people have died of these diseases — one every four hours on average.
@@ -30,7 +30,12 @@ To start with , its decided to have temporary setup to check concept validity an
 
 My collegue Miss. Priyanka Gharat worked on this initial setup. Detailed documenation of this is available on her blog. Here is the link :  
 http://vadic.vigyanashram.blog/2020/10/06/solar-water-filter-2/  
-In first trial, to know retention time of UV C light in continous filtering process , we passed xxx water for xxx time thorugh UV C quartz glass tube, After  water testing (H2S test) we got negative results , so ist concluded that it needs around 10 sec time to purify xxx amount of water.
+In first trial, to know retention time of UV C light in continous filtering process , we passed xxx water for xxx time thorugh UV C quartz glass tube, After  water testing (H2S test) we got negative results , so ist concluded that it needs around 10 sec time to purify xxx amount of water.  
+
+Temperature sensors comparision            |  Comparision graph
+:---------------------------:|:-------------------------:
+![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/2.jpg)  |  ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/3.jpg)
+
 
 Taking in count this result we dsigned another setup to test retention time required for batch process. This setup mainly includes 
 
