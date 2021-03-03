@@ -23,7 +23,7 @@ Considering all above issues  and limitations , if we develope filter that uses 
 
 ### System sketch and Initial trials:
 
-To start with , its decided to have temporary setup to check concept validity and to calculate required retention time to get one batch of water purified. System sketch will something  look like this - 
+To start with , its decided to have temporary setup to check concept validity and to calculate required retention time to get one batch of purified water . System sketch will look like this - 
 
 ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/1-1.jpg)  
  
@@ -39,12 +39,27 @@ Trial on contineous process  |  Trail on batch process
 :---------------------------:|:-------------------------:
 ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/1-2.jpg)  |  ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/1-3.jpg)
 
+In another trial, we taken 3 
 
 
 
+
+
+Accounting these results we dsigned another setup to test exact retention time required for batch process. This setup mainly included 
+
+11 watt UV C light tube - 2 numbers 
+Choke to control supply voltage 
+20 lit container 
+
+Following images showing assembly of this setup, In this setup we attached two UV C light tubes parallely and equidistant, connected to 230 V AC power supply through choke. UV C light normally passes around xxxx distance inside water so accordingly we selected water container that can hold around 20 liter water.     
 Initial setup         |  UV C light tubes
 :---------------------------:|:-------------------------:
-![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/2.jpg)  |  ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/3.jpg)
+![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/2.jpg)  |  ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/3.jpg)  
+
+with this setup we kept calculated retention time of 15 min with two UV C tubes for 20 lit of  water. After water testing( H2S test )
+result was negative.So we tried again with same setup but now with one tube , result was positive . After discussion we come to know that we need to circulate water to get UV C light exposure in whole water. So we added one small 12 V DC operated submercible pump into it nad taken trial again with same setup and retentionn time, now result was negative. That it !! Here we saved one UV C light tube (11watt consumption) and added 12VDC submercible pump (2 watt )  into this setup. 
+
+
 
 
 Taking in count this result we dsigned another setup to test retention time required for batch process. This setup mainly includes 
