@@ -21,9 +21,9 @@ Considering all above issues  and limitations , if we develope filter that uses 
 
 
 
-### System sketch and initial trials:
+### System sketch and Initial trials:
 
-To start with , its decided to have temporary setup to check concept validity and to calculate required retention time to get one batch of water purified. As per below sketch we designed initial setup.  
+To start with , its decided to have temporary setup to check concept validity and to calculate required retention time to get one batch of water purified. System sketch will something  look like this - 
 
 ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/1-1.jpg)  
  
@@ -32,9 +32,17 @@ To start with , its decided to have temporary setup to check concept validity an
 My collegue Miss. Priyanka Gharat worked on this initial setup. Detailed documenation of this is available on her blog. Here is the link :  
 http://vadic.vigyanashram.blog/2020/10/06/solar-water-filter-2/    
 
-In first trial, to know retention time of UV C light in continous filtering process , we passed xxx water for xxx time thorugh UV C quartz glass tube, After  water testing (H2S test) we got negative results , so ist concluded that it needs around 10 sec time to purify xxx amount of water.  
+In first trial, to know retention time of UV C light in continous filtering process , we passed xxx water for xxx time thorugh UV C quartz glass tube, After  water testing (H2S test) we got negative results , so its concluded that it needs around 10 sec time to purify xxx amount of water.
 
-Initial setup         |  UV C tubes
+
+Initial setup         |  UV C light tubes
+:---------------------------:|:-------------------------:
+![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/2.jpg)  |  ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/3.jpg)
+
+
+
+
+Initial setup         |  UV C light tubes
 :---------------------------:|:-------------------------:
 ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/2.jpg)  |  ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/3.jpg)
 
