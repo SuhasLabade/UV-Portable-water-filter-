@@ -35,7 +35,7 @@ http://vadic.vigyanashram.blog/2020/10/06/solar-water-filter-2/
 In first trial, to know retention time of UV C light in continous filtering process , we passed xxx water for xxx time thorugh UV C quartz glass tube, After  water testing (H2S test) we got negative results , so its concluded that it needs around 10 sec time to purify xxx amount of water.
 
 
-Trial on contineous process         |  Trail on batch process
+Trial on contineous process  |  Trail on batch process
 :---------------------------:|:-------------------------:
 ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/1-2.jpg)  |  ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/1-3.jpg)
 
