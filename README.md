@@ -71,11 +71,15 @@ Whole setup design          |  Cover design in solidworks
 :---------------------------:|:-------------------------:
 ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/5.png)  |  ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/6.png)  
 
+
+
  We outsourced FRP cover with giving mold design as per requirnments. After fixing electronics and UV tube it looks like this. 
 
 UV tube assembly with FRP cover        |  Prototype ready for testing 
 :---------------------------:|:-------------------------:
 ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/7.jpg)  |  ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/8.jpg)  
+
+
 
 
 To run this whole setup on Solar energy I tested this on 45 Watt Inverter system available in market. Total consumption of this unit 
