@@ -69,7 +69,7 @@ Following this prototype  we prepared design of this filter
 
 Initial setup         |  UV C light tubes
 :---------------------------:|:-------------------------:
-![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/5.jpg)  |  ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/6.jpg)  
+![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/5.png)  |  ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/6.png)  
 
 
 
