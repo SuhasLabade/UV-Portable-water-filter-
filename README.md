@@ -67,13 +67,11 @@ After successful trial of initial setup we come to know ratio of retension time 
 
 After testing this for two days its clear that it needs water proofing (especially for electronics part) as water vapours gets trapped on inside cover and affaecting on attached electronics on it. So we decided to make design of this system and manufacture this water container cover in FRP.  This FRP cover will contain electronics and fit on water container properly.     
 
-
-
 Whole setup design          |  Cover design in solidworks 
 :---------------------------:|:-------------------------:
 ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/5.png)  |  ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/6.png)  
 
-
+ We outsourced FRP cover with giving mold design as per requirnments 
 
 UV tube assembly with FRP cover        |  Prototype ready for testing 
 :---------------------------:|:-------------------------:
