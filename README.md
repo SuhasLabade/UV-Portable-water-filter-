@@ -32,17 +32,16 @@ To start with , its decided to have temporary setup to check concept validity an
 My collegue Miss. Priyanka Gharat worked on this initial setup. Detailed documenation of this is available on her blog. Here is the link :  
 http://vadic.vigyanashram.blog/2020/10/06/solar-water-filter-2/    
 
-In first trial, to know retention time of UV C light in continous filtering process , we passed xxx water for xxx time thorugh UV C quartz glass tube, After  water testing (H2S test) we got negative results , so its concluded that it needs around 10 sec time to purify xxx amount of water.
+In first trial, to know retention time of UV C light in continous filtering process , we passed 250ml water for 30 sec time thorugh UV C quartz glass tube, After  water testing (H2S test) we got negative results , so its concluded that it needs around 30 sec time to purify 250 ml amount of water in continoues process.
 
 
 Trial on contineous process  |  Trail on batch process
 :---------------------------:|:-------------------------:
 ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/1-2.jpg)  |  ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/1-3.jpg)
 
-In another trial, we taken 3 
+In another trial, we taken 2 liter water  and kept 1 UV tube on it with distance 15 cm in between, this was for 3 min retension time and result was negative. we taken successsive trails with varying quantity of water and distance between UV tube and water surface. Finally we got results for 5 liter water with 15cm distance it needs 3.75min retension time.   
 
-
-
+So we concluded for 20 liter water it needs approximate 15 min retension time of UVC light exposure with 15cm gap in between and with submercible motor inside.  
 
 
 Accounting these results we dsigned another setup to test exact retention time required for batch process. This setup mainly included 
@@ -57,7 +56,7 @@ Initial setup         |  UV C light tubes
 ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/2.jpg)  |  ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/3.jpg)  
 
 with this setup we kept calculated retention time of 15 min with two UV C tubes for 20 lit of  water. After water testing( H2S test )
-result was negative.So we tried again with same setup but now with one tube , result was positive . After discussion we come to know that we need to circulate water to get UV C light exposure in whole water. So we added one small 12 V DC operated submercible pump into it nad taken trial again with same setup and retentionn time, now result was negative. That it !! Here we saved one UV C light tube (11watt consumption) and added 12VDC submercible pump (2 watt )  into this setup. 
+result was negative.So we tried again with same setup but now with one tube , result was positive . After discussion we come to know that we need to circulate water to get UV C light exposure in whole water. So we added one small 12 V DC operated submercible pump into it nad taken trial again with same setup and retentionn time, now result was negative. Thats it !! Here we saved one UV C light tube (11watt consumption) and added 12VDC submersible pump (2 watt )  into this setup. 
 
 
 
