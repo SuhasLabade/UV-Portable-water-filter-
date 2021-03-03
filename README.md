@@ -65,19 +65,25 @@ After successful trial of initial setup we come to know ratio of retension time 
 
 ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/4.jpg) 
 
-After testing this for two days its clear that it needs water proofing (especially for electronics part) as water vapours gets trapped on inside cover and affaecting on attached electronics on it. So we decided to make design of this system and manufacture this water container cover in FRP.  This FRP cover will contain electronics and fit on water container properly.     
+After testing this for two days its clear that it needs water proofing (especially for electronics part) as water vapours gets trapped on inside cover and affecting on attached electronics on it. So we decided to make design of this system and manufacture this water container cover in FRP.  This FRP cover will contain electronics and fit on water container properly.     
 
 Whole setup design          |  Cover design in solidworks 
 :---------------------------:|:-------------------------:
 ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/5.png)  |  ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/6.png)  
 
- We outsourced FRP cover with giving mold design as per requirnments 
+ We outsourced FRP cover with giving mold design as per requirnments. After fixing electronics and UV tube it looks like this. 
 
 UV tube assembly with FRP cover        |  Prototype ready for testing 
 :---------------------------:|:-------------------------:
 ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/7.jpg)  |  ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/8.jpg)  
 
 
+To run this whole setup on Solar energy I tested this on 45 Watt Inverter system available in market. Total consumption of this unit 
+is around 15 watt so this inverter is suitable as power source. It's chaging on 20watt solar panel panel and has 2 LED lights as well. Considering tribal areas its solving both - lighting plus water filtering problem. 
+
 ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/9.jpg)  
+
+
+This first prototype is under testing for now. 
 
 
