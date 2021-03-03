@@ -39,18 +39,18 @@ Trial on contineous process  |  Trail on batch process
 :---------------------------:|:-------------------------:
 ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/1-2.jpg)  |  ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/1-3.jpg)
 
-In another trial, we taken 2 liter water  and kept 1 UV tube on it with distance 15 cm in between, this was for 3 min retension time and result was negative. we taken successsive trails with varying quantity of water and distance between UV tube and water surface. Finally we got results for 5 liter water with 15cm distance it needs 3.75min retension time.   
+In another trial, we taken 2 liter water and kept one UV tube on it with distance 15 cm in between, this was for 3 min retension time and result was negative. We taken successsive trails with varying quantity of water and distance between UV tube and water surface. Finally we got result for 5 liter water with 15cm distance it needs 3.75 min retension time.   
 
-So we concluded for 20 liter water it needs approximate 15 min retension time of UVC light exposure with 15cm gap in between and with submercible motor inside.  
+So we concluded, for 20 liter water it needs approximate 15 min retension time of UVC light exposure with 15cm gap in between and with submersible motor inside.  
 
 
-Accounting these results we dsigned another setup to test exact retention time required for batch process. This setup mainly included 
+Accounting these results we dsigned another setup to test above conclusions. This setup mainly included- 
 
-11 watt UV C light tube - 2 numbers 
-Choke to control supply voltage 
-20 lit container 
+11 watt UV C light tube - 2 numbers   
+Choke to control supply voltage   
+20 lit container    
 
-Following images showing assembly of this setup, In this setup we attached two UV C light tubes parallely and equidistant, connected to 230 V AC power supply through choke. UV C light normally passes around xxxx distance inside water so accordingly we selected water container that can hold around 20 liter water.     
+Following images showing assembly of this setup, In this we attached two UV C light tubes parallely and equidistant, connected to 230 V AC power supply through choke. UV C light normally passes around 15cm distance inside water so accordingly we selected water container that can hold around 20 liter water.     
 Initial setup         |  UV C light tubes
 :---------------------------:|:-------------------------:
 ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/2.jpg)  |  ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/3.jpg)  
@@ -58,23 +58,6 @@ Initial setup         |  UV C light tubes
 with this setup we kept calculated retention time of 15 min with two UV C tubes for 20 lit of  water. After water testing( H2S test )
 result was negative.So we tried again with same setup but now with one tube , result was positive . After discussion we come to know that we need to circulate water to get UV C light exposure in whole water. So we added one small 12 V DC operated submercible pump into it nad taken trial again with same setup and retentionn time, now result was negative. Thats it !! Here we saved one UV C light tube (11watt consumption) and added 12VDC submersible pump (2 watt )  into this setup. 
 
-
-
-
-Taking in count this result we dsigned another setup to test retention time required for batch process. This setup mainly includes 
-
-11 watt UV C light tube 
-Choke to control supply 
-20 lit container 
-
-So we tried with different quantity and UV C projection timings-. 
-Initially  we kept 3 min projection for 5 liter of water - results are negative. so we kept reducing projectioin time and finally we found for 5 liter quantity it needs to have 5 min projection time . 
-
-
-
-
-
-   
 
 
 
