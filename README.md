@@ -59,6 +59,24 @@ with this setup we kept calculated retention time of 15 min with two UV C tubes 
 result was negative.So we tried again with same setup but now with one tube , result was positive . After discussion we come to know that we need to circulate water to get UV C light exposure in whole water. So we added one small 12 V DC operated submercible pump into it nad taken trial again with same setup and retentionn time, now result was negative. Thats it !! Here we saved one UV C light tube (11watt consumption) and added 12VDC submersible pump (2 watt )  into this setup. 
 
 
+### First prototype design and testing : 
+
+After successful trial of initial setup we come to know ratio of retension time , water quantity  and distnace in between.Accordingly we started working around first prototype to take multiple trails. To test functionality prepared this  with ready water container and same setup as per above. Here for saftey  purpose added case for electronics and tried to fix UV light properly.
+
+![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/4.jpg) 
+
+Following this prototype  we prepared design of this filter 
+
+Initial setup         |  UV C light tubes
+:---------------------------:|:-------------------------:
+![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/5.jpg)  |  ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/6.jpg)  
+
+
+
+Initial setup         |  UV C light tubes
+:---------------------------:|:-------------------------:
+![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/7.jpg)  |  ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/8.jpg)  
+
 
 
 ### Electronic design:
