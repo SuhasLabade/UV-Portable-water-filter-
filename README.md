@@ -79,29 +79,6 @@ Initial setup         |  UV C light tubes
 :---------------------------:|:-------------------------:
 ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/7.jpg)  |  ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/8.jpg)  
 
+![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/9.jpg) 
 
 
-### Electronic design:
-
-Electronics design part mainly consisting four parts - 
-1. Sensory system 
-2. Main control unit 
-3. Cloud storage 
-4. Power supply 
-
-#### Sensor selection : 
-Here to measure temperature and relative humidity parameters BOSCH make BME280 sensor selected.
-This module self-heats a little bit and the temperature measurements can be 1 or 2 degrees above the real temperature value.
-However, the BME280 is also the temperature sensor that gave more stable temperature readings without many oscillations between readings.
- This has to do with the resolution of the sensor. It can detect changes up to 0.01ºC.  
- 
-On below link most commonly used temparture sensors are compared and its showing BME280 is most suitable for this type of application. 
-https://randomnerdtutorials.com/dht11-vs-dht22-vs-lm35-vs-ds18b20-vs-bme280-vs-bmp180/
-
-Refering these results to use BME280 for this project.
-
-Temperature sensors comparision            |  Comparision graph
-:---------------------------:|:-------------------------:
-![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/BME4.png)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/BME5.png)
-
-Although temperature sensor selection is dependent on your applications. 
