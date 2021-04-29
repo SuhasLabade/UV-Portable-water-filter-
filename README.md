@@ -88,7 +88,9 @@ is around 15 watt so this inverter is suitable as power source. It's chaging on 
 
 Filter with solar power backup        |  On campus installation
 :---------------------------:|:-------------------------:
-![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/9.jpg)  |  ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/install.jpg)   
+![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/9.jpg)  |  ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/install.jpg) 
+
+### Problems after testing :    
 
 This first prototype is installed in Dixit sirs house for testing, after 20 days we found nutbolts to fix motor are corrodated and motor coupling is broken. 
 So I taken this unit back and opened up FRP case so I found water dropletes on electronic parts. I opened up UVC tube frame to check choke circuit, most of PCB tracks gets corrodated due to water vapourization.   
