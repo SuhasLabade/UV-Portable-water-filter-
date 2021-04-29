@@ -73,48 +73,48 @@ Whole setup design          |  Cover design in solidworks
 
 
 
- We outsourced FRP cover with giving mold design as per requirnments. After fixing electronics and UV tube it looks like this. 
+ We outsourced FRP cover with giving mold design as per requirnments. After fixing electronics and UV tube it looks like this.   
 
 UV tube assembly with FRP cover        |  Prototype ready for testing 
 :---------------------------:|:-------------------------:
-![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/7.jpg)  |  ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/8.jpg)  
+![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/7.jpg)  |  ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/8.jpg)    
 
 
 
 
 To run this whole setup on Solar energy I tested this on 45 Watt Inverter system available in market. Total consumption of this unit 
-is around 15 watt so this inverter is suitable as power source. It's chaging on 20watt solar panel panel and has 2 LED lights as well. Considering tribal areas its solving both - lighting plus water filtering problem. 
+is around 15 watt so this inverter is suitable as power source. It's chaging on 20watt solar panel panel and has 2 LED lights as well. Considering tribal areas its solving both - lighting plus water filtering problem.   
 
 
 Filter with solar power backup        |  On campus installation
 :---------------------------:|:-------------------------:
-![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/9.jpg)  |  ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/install.jpg) 
+![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/9.jpg)  |  ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/install.jpg)   
 
 This first prototype is installed in Dixit sirs house for testing, after 20 days we found nutbolts to fix motor are corrodated and motor coupling is broken. 
-So I taken this unit back and opened up FRP case so I found water dropletes on electronic parts. I opened up UVC tube frame to check choke circuit, most of PCB tracks gets corrodated due to water vapourization. 
+So I taken this unit back and opened up FRP case so I found water dropletes on electronic parts. I opened up UVC tube frame to check choke circuit, most of PCB tracks gets corrodated due to water vapourization.   
 
  Nut and  bolts corrosion         |  Water droplets on electronics 
 :---------------------------:|:-------------------------:
-![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/filter2.jpeg)  |  ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/filter1.jpeg)   
+![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/filter2.jpeg)  |  ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/filter1.jpeg)     
 
-Its hazardous , eletronics needs to keep inside weather proof box to avoid this corrosion and chances of short circuit failures.Its difficult to keep same setup with UVC tube  and its holder, it needs to cover that part with transperent covering that passes UVC radiations. 
+Its hazardous , eletronics needs to keep inside weather proof box to avoid this corrosion and chances of short circuit failures.Its difficult to keep same setup with UVC tube  and its holder, it needs to cover that part with transperent covering that passes UVC radiations.   
 
 
 ### Solutions  
 
 
-I find first solution to use quartz tube setup which used for continous water filter system . but it needs again to water seal from both sides to put inside water. Here making connections and tube repalcement will be difficult. 
+I find first solution to use quartz tube setup which used for continous water filter system . but it needs again to water seal from both sides to put inside water. Here making connections and tube repalcement will be difficult.   
 
 
 Qauratz glass covering in water filter         |  Aquarium submersible UVC tube 
 :---------------------------:|:-------------------------:
-![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/filter3.jpeg)  |  ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/uvtube.jpg)   
+![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/filter3.jpeg)  |  ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/uvtube.jpg)     
 
 
 So I browsed some ready to use solutions on internet and I got this submersible UVC germicidal lamp for aquarium.  
 https://www.eassymall.com/product/uv-light-aquarium-clean-lights-submersible-waterproof-lamp-11w  
 
-Looks it's suitable for filer application aso ordered one unit. 
+Looks it suitable for filter application so ordered one unit of this to test. 
 
 
 
