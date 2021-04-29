@@ -94,14 +94,14 @@ This first prototype is under testing for now.
 
  Nut and  bolts corrosion         |  Water droplets on electyronics 
 :---------------------------:|:-------------------------:
-![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/filter1.jpeg)  |  ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/filter2.jpeg)   
+![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/filter2.jpeg)  |  ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/filter1.jpeg)   
 
 
 
 ### Solutions  
 
 
-Nut and  bolts corrosion         |  Water droplets on electyronics 
+Qauratz glass covering in water filter         |  Aquarium submersible UVC tube 
 :---------------------------:|:-------------------------:
 ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/filter3.jpeg)  |  ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/uvtube.jpg)   
 
