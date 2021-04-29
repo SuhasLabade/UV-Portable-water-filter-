@@ -85,9 +85,38 @@ UV tube assembly with FRP cover        |  Prototype ready for testing
 To run this whole setup on Solar energy I tested this on 45 Watt Inverter system available in market. Total consumption of this unit 
 is around 15 watt so this inverter is suitable as power source. It's chaging on 20watt solar panel panel and has 2 LED lights as well. Considering tribal areas its solving both - lighting plus water filtering problem. 
 
-![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/9.jpg)  
 
+Filter with solar power backup        |  On campus installation
+:---------------------------:|:-------------------------:
+![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/9.jpg)  |  ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/install.jpg) 
 
 This first prototype is under testing for now. 
+
+ Nut and  bolts corrosion         |  Water droplets on electyronics 
+:---------------------------:|:-------------------------:
+![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/filter1.jpg)  |  ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/filter2.jpg)   
+
+
+
+### Solutions  
+
+
+Nut and  bolts corrosion         |  Water droplets on electyronics 
+:---------------------------:|:-------------------------:
+![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/filter3.jpg)  |  ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/uvtube.jpg)   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
