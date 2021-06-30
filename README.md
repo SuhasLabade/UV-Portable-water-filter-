@@ -133,7 +133,7 @@ In next spiral, we discussed about version 2 with ceramic candles for muddy wate
 ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/12.jpeg)  |  ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/13.jpeg)     
 
 
- Bill of material of both units attached herewith : 
+### Bill of material of both units attached herewith : 
  
  https://docs.google.com/spreadsheets/d/1rSHNEuhsrDX18GmfSiTp9_UhxoSMxmUI/edit#gid=175455302
  
@@ -151,7 +151,66 @@ ii) UV+C Water filter : This filter mainly contains ceramic candles in addition 
 ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/15.jpeg) 
 
 
-How to use this filter : 
+### How to use this filter : 
+
+This filter unit is very handy to use, just follow below steps to start using this. 
+
+1.	Open a filter cover and keep this aside, cover is with UVC tube (fragile material), take care during handling. 
+2.	Pour tap water inside up to marking. ( Take care of this while selecting water source - This filter removing only bacterial content, it’s not reducing water hardness or filters muddy water) 
+3.	Keep filter cover on tank, orient tube inside direction. 
+4.	Now plug in filter connection in 230V AC socket and turn ON switch. 
+5.	Keep this for next 15-20 min 
+6.	Turn OFF switch and remove connection. Water is ready to drink. 
+7.	Keep filter ON every day for 15-20 min. 
+
+Cleaning: 
+Clean filter tank and cover regularly.
+UV C tube is fixed with vacuum press attachments, it’s removable while cleaning. Fix it properly after cleaning. 
+
+### Advantages: 
+	This filer usage UVC light radiations in bandwidth 200 to 280 nm to kill pathogens inside water in batch process. It requires around 15-20 minutes for 20 liter water. 
+	No need to give continuous supply. Vey less electricity consumption, 11watt / hour. 
+	Portable unit works on solar power, for remote area users, for tribal communities. 
+	No need of extra tank, motor and solenoids like continuous type of filters. 
+	Low cost, affordable to tribal, remote area peoples. 
+	Takes very less space and handy to use and clean. 
+
+### Disadvantages: 
+	It’s only disinfecting water with killing bacteria and virus, it’s not reducing water hardness. 
+	Not suitable for muddy water.  
+Specifications: 
+	UVC light tube : 11Watt, bandwidth 200 to 280 nm
+	Power supply : 230 VAC / 50Hz
+	Solar Panel : 10 watt 
+	Solar inverter : 45Watt 
+
+### Features: 
+	Portable water filter / Easy to handle 
+	Low cost 
+	Less maintenance / Easy cleaning 
+	Operates on Grid and Solar Power 
+	Low power consumption 
+
+
+### Commissioning instructions: 
+
+1.	Check fragile parts regularly. 
+2.	Check electric connections regularly. 
+3.	If tube is not operational don’t turn it ON.
+4.	Check water level while filling water. 
+
+### Operational   Instructions  
+1.	Don’t open filter cover when its ON 
+2.	Fit cover properly after pouring water.
+3.	Fill water up to the marking only. 
+4.	Fix UVC tube properly with vacuum press attachments after cleaning. 
+5.	Keep it ON every day for 15 min only, Don’t leave it ON for whole day/ night. 
+6.	Handle fragile parts carefully.    
+
+
+
+
+
 
 
 
