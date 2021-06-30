@@ -113,10 +113,27 @@ Qauratz glass covering in water filter         |  Aquarium submersible UVC tube
 ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/filter3.jpeg)  |  ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/uvtube.jpg)     
 
 
-So I browsed some ready to use solutions on internet and I got this submersible UVC germicidal lamp for aquarium.  
+So I browsed some ready to use solutions on internet and I got this submersible UVC germicidal lamp for aquarium. So placed order from two diffrent sources. First tube is with 11watt power consumption and second with 7watt power consumption .  
 https://www.eassymall.com/product/uv-light-aquarium-clean-lights-submersible-waterproof-lamp-11w  
 
-Looks it suitable for filter application so ordered one unit of this to test. 
+I did H2S water testing with both tubes , results are positive with both tubes in same retension time. so I fixed 11watt UV tibe in filter tank with vaccum press attachements and given this unit for testing. 
+
+ Vaccum press UVC submersible tube (11Watt)          |  Final filter unit 
+:---------------------------:|:-------------------------:
+![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/filter2.jpeg)  |  ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/filter1.jpeg)     
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
