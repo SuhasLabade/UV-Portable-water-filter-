@@ -120,7 +120,7 @@ I did H2S water testing with both tubes , results are positive with both tubes i
 
  Vaccum press UVC submersible tube (11Watt)          |  Final filter unit 
 :---------------------------:|:-------------------------:
-![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/filter2.jpeg)  |  ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/filter1.jpeg)     
+![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/10.jpeg)  |  ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/11.jpeg)     
 
 This unit working properly now.My collegue Prasad and Pooja preaperd design and manual of this filter in Solidworks Composer.  
 
@@ -130,7 +130,7 @@ In next spiral, we discussed about version 2 with ceramic candles for muddy wate
 
  Vaccum press UVC submersible tube (11Watt)          |  Final filter unit 
 :---------------------------:|:-------------------------:
-![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/filter2.jpeg)  |  ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/filter1.jpeg)     
+![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/12.jpeg)  |  ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/13.jpeg)     
 
 
  Bill of material of both units attached herewith : 
@@ -143,13 +143,13 @@ In next spiral, we discussed about version 2 with ceramic candles for muddy wate
  
  i) UV Water filter : which will need electric supply for min 15 min in a day , either solar power or grid connection. Its not designed for muddy water.
  
- ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/4.jpg) 
+ ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/14.jpg) 
 
  
 
 ii) UV+C Water filter : This filter mainly contains ceramic candles in addition with UVC tube to treat muddy water. Needs electric supply wither from solar power or grid connection.  
 
-![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/4.jpg) 
+![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/15.jpg) 
 
 
 How to use this filter : 
