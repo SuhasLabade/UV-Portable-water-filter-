@@ -168,28 +168,29 @@ Clean filter tank and cover regularly.
 UV C tube is fixed with vacuum press attachments, it’s removable while cleaning. Fix it properly after cleaning. 
 
 ### Advantages: 
-	This filer usage UVC light radiations in bandwidth 200 to 280 nm to kill pathogens inside water in batch process. It requires around 15-20 minutes for 20 liter water. 
-	No need to give continuous supply. Vey less electricity consumption, 11watt / hour. 
-	Portable unit works on solar power, for remote area users, for tribal communities. 
-	No need of extra tank, motor and solenoids like continuous type of filters. 
-	Low cost, affordable to tribal, remote area peoples. 
-	Takes very less space and handy to use and clean. 
+	This filer usage UVC light radiations in bandwidth 200 to 280 nm to kill pathogens inside water in batch process. It requires around 15-20 minutes for 20 liter water.   
+	No need to give continuous supply. Vey less electricity consumption, 11watt / hour.   
+	Portable unit works on solar power, for remote area users, for tribal communities.   
+	No need of extra tank, motor and solenoids like continuous type of filters.   
+	Low cost, affordable to tribal, remote area peoples.   
+	Takes very less space and handy to use and clean.   
 
 ### Disadvantages: 
-	It’s only disinfecting water with killing bacteria and virus, it’s not reducing water hardness. 
-	Not suitable for muddy water.  
-Specifications: 
-	UVC light tube : 11Watt, bandwidth 200 to 280 nm
-	Power supply : 230 VAC / 50Hz
-	Solar Panel : 10 watt 
-	Solar inverter : 45Watt 
+	It’s only disinfecting water with killing bacteria and virus, it’s not reducing water hardness.   
+	Not suitable for muddy water.    
+
+### Specifications: 
+	UVC light tube : 11Watt, bandwidth 200 to 280 nm  
+	Power supply : 230 VAC / 50Hz  
+	Solar Panel : 10 watt   
+	Solar inverter : 45Watt   
 
 ### Features: 
-	Portable water filter / Easy to handle 
-	Low cost 
-	Less maintenance / Easy cleaning 
-	Operates on Grid and Solar Power 
-	Low power consumption 
+	Portable water filter / Easy to handle   
+	Low cost   
+	Less maintenance / Easy cleaning   
+	Operates on Grid and Solar Power   
+	Low power consumption   
 
 
 ### Commissioning instructions: 
