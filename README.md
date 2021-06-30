@@ -124,7 +124,7 @@ I did H2S water testing with both tubes , results are positive with both tubes i
 
 This unit working properly now.My collegue Prasad and Pooja preaperd design and manual of this filter in Solidworks Composer.  
 
-  
+http://vadic.vigyanashram.blog/2021/06/29/portable-solar-uv-water-filter/
 
 In next spiral, we discussed about version 2 with ceramic candles for muddy water . There are filters available in market with ceramic candles so I orederd one of them and fitted 7 watt submersible tube on that. After water testing results are positive , so another unit with UVC and ceramic candles is ready in case of muddy water. 
 
@@ -135,8 +135,7 @@ In next spiral, we discussed about version 2 with ceramic candles for muddy wate
 
  Bill of material of both units attached herewith : 
  
- 
- 
+ https://docs.google.com/spreadsheets/d/1rSHNEuhsrDX18GmfSiTp9_UhxoSMxmUI/edit#gid=175455302
  
  
  So right now two units  are ready as below : 
@@ -149,7 +148,7 @@ In next spiral, we discussed about version 2 with ceramic candles for muddy wate
 
 ii) UV+C Water filter : This filter mainly contains ceramic candles in addition with UVC tube to treat muddy water. Needs electric supply wither from solar power or grid connection.  
 
-![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/15.jpg) 
+![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/15.jpeg) 
 
 
 How to use this filter : 
