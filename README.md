@@ -209,7 +209,7 @@ UV C tube is fixed with vacuum press attachments, it’s removable while cleanin
 6.	Handle fragile parts carefully.    
 
 
- Concept note preapared to take this next level.
+ Concept note preapared to take this next level.  
  https://docs.google.com/document/d/1VB4zR3EquJS_yAA6lzgcYAixboCVVVau/edit?usp=drive_web&ouid=108225846397181625907&rtpof=true
 
 
