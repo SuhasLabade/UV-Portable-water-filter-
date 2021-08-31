@@ -211,6 +211,29 @@ UV C tube is fixed with vacuum press attachments, it’s removable while cleanin
 
  Concept note preapared to take this next level.  
  https://docs.google.com/document/d/1VB4zR3EquJS_yAA6lzgcYAixboCVVVau/edit?usp=drive_web&ouid=108225846397181625907&rtpof=true
+ 
+ 
+ ### Installations and Feedback 
+ 
+   1. Given one filter unit to Dixit sirs house at Pune , Feedback received after one week is that flow rate through ceramic candles is very less. Rest of parts working good.   
+
+       - Replaced ceramic candles with new candles and tested it again, half of water started remaining in container .  
+       - Calculated flow rate of newly received candles - its 800ml / hr , 1600ml / hr .     
+   2. Second Unit installed at Ladies hostel and strated collecting feedback.  
+   3. Third unit installed inside fablab with Solar Power backup - 90watt inverter with 10 watt solar panel.  
+   
+   
+  Next action plan :  
+  2 filters in Manchar city : Electrical shop (1 month trial without cost ) , Paid   
+  2 filters on sugar factory : No cost ( 1 month trail )  
+  2 filters : Nomadic community (10 days trial ith solar backup )  
+  NBIRT model   
+  Find Funding resources  
+  
+  
+    
+    
+   
 
 
 
