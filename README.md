@@ -229,11 +229,8 @@ UV C tube is fixed with vacuum press attachments, it’s removable while cleanin
   2 filters : Nomadic community (10 days trial ith solar backup )  
   NBIRT model   
   Find Funding resources  
+  Discuss new ways 
   
-  
-    
-    
-   
 
 
 
