@@ -215,7 +215,12 @@ UV C tube is fixed with vacuum press attachments, it’s removable while cleanin
  
  ### Installations and Feedback 
  
-   1. Given one filter unit to Dixit sirs house at Pune , Feedback received after one week is that flow rate through ceramic candles is very less. Rest of parts working good.   
+   1. Given one filter unit to Dixit sirs house at Pune , Feedback received after one week is that flow rate through ceramic candles is very less. Rest of parts working good.     
+
+
+ Ladies Hostel          |  Workshop 
+:---------------------------:|:-------------------------:
+![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/16.jpg)  |  ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/17.jpg)  
 
        - Replaced ceramic candles with new candles and tested it again, half of water started remaining in container .  
        - Calculated flow rate of newly received candles - its 800ml / hr , 1600ml / hr .     
