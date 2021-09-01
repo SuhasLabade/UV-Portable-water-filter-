@@ -217,22 +217,29 @@ UV C tube is fixed with vacuum press attachments, it’s removable while cleanin
  
    1. Given one filter unit to Dixit sirs house at Pune , Feedback received after one week is that flow rate through ceramic candles is very less. Rest of parts working good.    
 
-   Replaced ceramic candles with new candles and tested it again, half of water started remaining in container .  
-   Calculated flow rate of newly received candles - its 800ml / hr , 1600ml / hr .     
+  Replaced ceramic candles with new candles and tested it again, half of water started remaining in container .  
+  Calculated flow rate of newly received candles - its 800ml / hr , 1600ml / hr .
+  Needs discussion on this. 
+  
+  
    2. Second and Third Unit installed at Ladies hostel and strated collecting feedback.  
    3. Third unit installed inside fablab with Solar Power backup - 90watt inverter with 10 watt solar panel.  
+   
 
 Ladies Hostel Unit         |  Workshop
 :---------------------------:|:-------------------------:
-![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/16.jpg)  |  ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/17.jpg)     
+![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/16.jpg)  |  ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/17.jpg)  
 
-   
-   
+
   Next action plan :  
-  2 filters in Manchar city : Electrical shop (1 month trial without cost ) , Paid   
-  2 filters on sugar factory : No cost ( 1 month trail )  
-  2 filters : Nomadic community (10 days trial ith solar backup )  
-  NBIRT model   
+  2 filters in Manchar city : Electrical shop (1 month trial without cost ) , 1 Paid   
+  2 filters on sugar factory : No cost ( 10 days trail )  
+  2 filters : Nomadic community (10 days trial with solar backup )  
+ 
+  NBIRT model   : 
+  RO based , 10 micron / 5 micron carbon filters, 35000 price 
+  UF based : Price : 25000/- 
+  
   Find Funding resources  
   Discuss new ways 
   
