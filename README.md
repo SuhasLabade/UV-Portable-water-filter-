@@ -228,10 +228,12 @@ UV C tube is fixed with vacuum press attachments, it’s removable while cleanin
 
 Ladies Hostel Unit         |  Workshop
 :---------------------------:|:-------------------------:
-![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/16.jpg)  |  ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/17.jpg)  
+![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/16.jpg)  |  ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/17.jpg)    
 
 
-Cionducted training at Mukhai school to test new verison of these filters.   
+Conducted training at Mukhai school to test UV + Carbon type filters on field. Distributes 9 filters to them and will take feedbacks after 15 days.       
+
+
 Mukhai school training           |  Mukhai school training 
 :---------------------------:|:-------------------------:
 ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/18.jpg)  |  ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/19.jpg)  
