@@ -237,6 +237,7 @@ Conducted training at Mukhai school to test UV + Carbon type filters on field. D
 Mukhai school training           |  Mukhai school training 
 :---------------------------:|:-------------------------:
 ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/18.jpg)  |  ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/19.jpg)  
+
 Mukhai school training       |  Mukhai school training  
 :---------------------------:|:-------------------------:
 ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/20.jpg)  |  ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/21.jpg)  
