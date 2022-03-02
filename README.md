@@ -231,17 +231,15 @@ Ladies Hostel Unit         |  Workshop
 ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/16.jpg)  |  ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/17.jpg)  
 
 
-  Next action plan :  
-  2 filters in Manchar city : Electrical shop (1 month trial without cost ) , 1 Paid   
-  2 filters on sugar factory : No cost ( 10 days trail )  
-  2 filters : Nomadic community (10 days trial with solar backup )  
+Cionducted training at Mukhai school to test new verison of these filters.   
+Mukhai school training           |  Mukhai school training 
+:---------------------------:|:-------------------------:
+![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/18.jpg)  |  ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/19.jpg)  
+Mukhai school training       |  Mukhai school training  
+:---------------------------:|:-------------------------:
+![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/20.jpg)  |  ![](https://github.com/SuhasLabade/UV-Portable-water-filter-/blob/main/Images/21.jpg)  
  
-  NBIRT model   : 
-  RO based , 10 micron / 5 micron carbon filters, 35000 price 
-  UF based : Price : 25000/- 
   
-  Find Funding resources  
-  Discuss new ways 
   
 
 
